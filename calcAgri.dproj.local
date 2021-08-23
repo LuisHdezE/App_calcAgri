@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <ActiveMobileDevice>   <NoProfile Android64="LGK3714ae49610" Android="LGK3714ae49610"/>
+  </ActiveMobileDevice>
+  <Transactions>
+    <Transaction>2021/08/22 21:35:20.351,D:\Programacion\2021\repositorio\App_calcAgri\main.fmx=D:\Programacion\2021\repositorio\App_calcAgri\TabbedTemplate.fmx</Transaction>
+    <Transaction>2021/08/22 21:35:20.351,D:\Programacion\2021\repositorio\App_calcAgri\main.pas=D:\Programacion\2021\repositorio\App_calcAgri\TabbedTemplate.pas</Transaction>
+    <Transaction>2021/08/22 21:35:40.987,D:\Programacion\2021\repositorio\App_calcAgri\calcAgri.dproj=D:\Programacion\2021\repositorio\App_calcAgri\TabbedApplication.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
